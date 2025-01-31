@@ -17,7 +17,6 @@ public class TestAtLeastOneMoveExists {
 
     @Test
     /** Tests a board with some empty space.
-     *
      *  Note that this isn't a comprehensive test for empty space. For that,
      * see the TestEmptySpace class. */
     public void testEmptySpace() {

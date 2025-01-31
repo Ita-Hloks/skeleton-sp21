@@ -24,7 +24,7 @@ public class TTFAF {
         }
 
         // You can also do this:
-        // GuitarPlayer player = new GuitarPlayer(new java.io.File("path/to/music.mid"));
+//         GuitarPlayer player = new GuitarPlayer(new java.io.File("path/to/music.mid"));
         // player.play();
     }
 
